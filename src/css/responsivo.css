@@ -9,22 +9,20 @@
     }
 }
 
-
 @media(max-width: 496px) {
     .lista-personagens {
         width: 250px;
     }
 
-
     .imagem-carta {
         width: 100%;
     }
-    
+
     .slider {
         position: relative;
     }
 
-    .bnt-seta{
+    .btn-seta {
         position: absolute;
         bottom: -13%;
     }
@@ -33,15 +31,10 @@
         right: 20%;
     }
 
-
     #btn-voltar {
         left: 20%;
     }
-       
-
-
 }
-
 
 @media(max-width: 375px) {
     body {
@@ -49,7 +42,6 @@
         padding-top: 10px;
         gap: 10px;
     }
-
 
     .cabecalho {
         font-size: 12px;
